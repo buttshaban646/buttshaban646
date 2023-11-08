@@ -93,4 +93,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=buttshaban646&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=16&theme=dark&hide_border=false&order=2&custom_title=Worked%20In" height="170" alt="languages graph"  />
 </div>
 ###
+<img src="https://raw.githubusercontent.com/buttshaban646/buttshaban646/output/snake.svg" alt="Snake animation" />
 ###
